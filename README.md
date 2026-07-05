@@ -121,7 +121,7 @@ pip install -r requirements.txt
 Run the analysis:
 
 ```bash
-python scripts/mrps16_analysis.py
+python mrps16_analysis.py
 ```
 
 The script generates:
