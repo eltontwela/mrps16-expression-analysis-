@@ -68,18 +68,11 @@ using the same RNA-seq processing pipeline (Toil), allowing direct comparison.
 
 ```
 mrps16-expression-analysis/
-│
-├── data/
-│   ├── gbm_mrps16.tsv
-│   └── lihc_mrps16.tsv
-│
-├── scripts/
-│   └── mrps16_analysis.py
-│
-├── results/
-│   ├── mrps16_boxplots.png
-│   └── mrps16_statistiques.csv
-│
+├── gbm_mrps16.tsv
+└── lihc_mrps16.tsv
+└── mrps16_analysis.py
+├── mrps16_boxplots.png
+└── mrps16_statistiques.csv
 ├── README.md
 ```
 
