@@ -1,0 +1,532 @@
+sample	samples	MRPS16	primary disease or tissue	_primary_site
+TCGA-DD-A73G-01	TCGA-DD-A73G-01	13.35	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A4ZP-01	TCGA-FV-A4ZP-01	13.13	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADO-01	TCGA-DD-AADO-01	13.10	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A8HV-01	TCGA-CC-A8HV-01	12.99	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A39Z-01	TCGA-DD-A39Z-01	12.98	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A25S-01	TCGA-G3-A25S-01	12.94	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A123-01	TCGA-CC-A123-01	12.85	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A39X-01	TCGA-DD-A39X-01	12.85	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A69H-01	TCGA-BC-A69H-01	12.82	Liver Hepatocellular Carcinoma	Liver
+TCGA-ED-A7PZ-01	TCGA-ED-A7PZ-01	12.81	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A7IG-01	TCGA-CC-A7IG-01	12.80	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A7M9-01	TCGA-G3-A7M9-01	12.80	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-AAV5-01	TCGA-G3-AAV5-01	12.80	Liver Hepatocellular Carcinoma	Liver
+TCGA-T1-A6J8-01	TCGA-T1-A6J8-01	12.75	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9H3-01	TCGA-2Y-A9H3-01	12.70	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADN-01	TCGA-DD-AADN-01	12.70	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A39V-01	TCGA-DD-A39V-01	12.69	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A7-01	TCGA-DD-A3A7-01	12.69	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-AAV6-01	TCGA-G3-AAV6-01	12.69	Liver Hepatocellular Carcinoma	Liver
+TCGA-5C-A9VG-01	TCGA-5C-A9VG-01	12.66	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A9-01	TCGA-DD-A3A9-01	12.63	Liver Hepatocellular Carcinoma	Liver
+TCGA-ES-A2HS-01	TCGA-ES-A2HS-01	12.61	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A9FW-01	TCGA-CC-A9FW-01	12.59	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A113-01	TCGA-DD-A113-01	12.59	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAE9-01	TCGA-DD-AAE9-01	12.59	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAEG-01	TCGA-DD-AAEG-01	12.58	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A7II-01	TCGA-CC-A7II-01	12.57	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A9FU-01	TCGA-CC-A9FU-01	12.55	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAVU-01	TCGA-DD-AAVU-01	12.55	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EL-01	TCGA-DD-A1EL-01	12.49	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A39Y-01	TCGA-DD-A39Y-01	12.49	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACL-01	TCGA-DD-AACL-01	12.49	Liver Hepatocellular Carcinoma	Liver
+TCGA-XR-A8TF-01	TCGA-XR-A8TF-01	12.48	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A119-01	TCGA-DD-A119-01	12.45	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADS-01	TCGA-DD-AADS-01	12.45	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACO-01	TCGA-DD-AACO-01	12.43	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A7IF-01	TCGA-CC-A7IF-01	12.42	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A495-01	TCGA-FV-A495-01	12.42	Liver Hepatocellular Carcinoma	Liver
+TCGA-KR-A7K7-01	TCGA-KR-A7K7-01	12.42	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A5SM-01	TCGA-G3-A5SM-01	12.41	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-5259-01	TCGA-CC-5259-01	12.39	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A5UC-01	TCGA-CC-A5UC-01	12.39	Liver Hepatocellular Carcinoma	Liver
+TCGA-EP-A2KB-01	TCGA-EP-A2KB-01	12.39	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADM-01	TCGA-DD-AADM-01	12.36	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A116-01	TCGA-DD-A116-01	12.35	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAVP-01	TCGA-DD-AAVP-01	12.34	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-AAV0-01	TCGA-G3-AAV0-01	12.34	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A10Z-01	TCGA-BC-A10Z-01	12.33	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADC-01	TCGA-DD-AADC-01	12.33	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A8HU-01	TCGA-CC-A8HU-01	12.31	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACG-01	TCGA-DD-AACG-01	12.31	Liver Hepatocellular Carcinoma	Liver
+TCGA-XR-A8TC-01	TCGA-XR-A8TC-01	12.31	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAE4-01	TCGA-DD-AAE4-01	12.30	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACP-01	TCGA-DD-AACP-01	12.29	Liver Hepatocellular Carcinoma	Liver
+TCGA-EP-A2KA-01	TCGA-EP-A2KA-01	12.29	Liver Hepatocellular Carcinoma	Liver
+TCGA-ZP-A9D0-01	TCGA-ZP-A9D0-01	12.29	Liver Hepatocellular Carcinoma	Liver
+TCGA-UB-A7MA-01	TCGA-UB-A7MA-01	12.28	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9HA-01	TCGA-2Y-A9HA-01	12.27	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A3KG-01	TCGA-BC-A3KG-01	12.27	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A3M9-01	TCGA-CC-A3M9-01	12.27	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAEE-01	TCGA-DD-AAEE-01	12.27	Liver Hepatocellular Carcinoma	Liver
+TCGA-ED-A7PX-01	TCGA-ED-A7PX-01	12.27	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACB-01	TCGA-DD-AACB-01	12.26	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADJ-01	TCGA-DD-AADJ-01	12.26	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A25T-01	TCGA-G3-A25T-01	12.26	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A25Z-01	TCGA-G3-A25Z-01	12.26	Liver Hepatocellular Carcinoma	Liver
+TCGA-UB-A7MF-01	TCGA-UB-A7MF-01	12.26	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADD-01	TCGA-DD-AADD-01	12.25	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A4ZQ-01	TCGA-FV-A4ZQ-01	12.25	Liver Hepatocellular Carcinoma	Liver
+TCGA-NI-A8LF-01	TCGA-NI-A8LF-01	12.24	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9H0-01	TCGA-2Y-A9H0-01	12.23	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A5-01	TCGA-DD-A3A5-01	12.23	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A73B-01	TCGA-DD-A73B-01	12.23	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADK-01	TCGA-DD-AADK-01	12.23	Liver Hepatocellular Carcinoma	Liver
+GTEX-11TT1-1726-SM-5EQLJ	GTEX-11TT1-1726-SM-5EQLJ	12.22	Liver	Liver
+TCGA-2Y-A9H1-01	TCGA-2Y-A9H1-01	12.22	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A7M7-01	TCGA-G3-A7M7-01	12.22	Liver Hepatocellular Carcinoma	Liver
+TCGA-XR-A8TD-01	TCGA-XR-A8TD-01	12.22	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A3KF-01	TCGA-BC-A3KF-01	12.21	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAE3-01	TCGA-DD-AAE3-01	12.21	Liver Hepatocellular Carcinoma	Liver
+TCGA-EP-A3RK-01	TCGA-EP-A3RK-01	12.21	Liver Hepatocellular Carcinoma	Liver
+TCGA-MI-A75I-01	TCGA-MI-A75I-01	12.21	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9GY-01	TCGA-2Y-A9GY-01	12.20	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A3-01	TCGA-DD-A3A3-01	12.19	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACK-01	TCGA-DD-AACK-01	12.19	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A5SI-01	TCGA-G3-A5SI-01	12.19	Liver Hepatocellular Carcinoma	Liver
+TCGA-RC-A7SH-01	TCGA-RC-A7SH-01	12.19	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A10T-01	TCGA-BC-A10T-01	12.18	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A7IH-01	TCGA-CC-A7IH-01	12.18	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A11A-01	TCGA-DD-A11A-01	12.18	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EJ-01	TCGA-DD-A1EJ-01	12.18	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A8-11	TCGA-DD-A3A8-11	12.18	Liver Hepatocellular Carcinoma	Liver
+TCGA-MI-A75C-01	TCGA-MI-A75C-01	12.18	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAVR-01	TCGA-DD-AAVR-01	12.17	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A3CJ-01	TCGA-G3-A3CJ-01	12.17	Liver Hepatocellular Carcinoma	Liver
+TCGA-WX-AA47-01	TCGA-WX-AA47-01	12.17	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-AAUZ-01	TCGA-G3-AAUZ-01	12.16	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A7IL-01	TCGA-CC-A7IL-01	12.15	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A118-01	TCGA-DD-A118-01	12.15	Liver Hepatocellular Carcinoma	Liver
+TCGA-ES-A2HT-01	TCGA-ES-A2HT-01	12.15	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A3R3-01	TCGA-FV-A3R3-01	12.15	Liver Hepatocellular Carcinoma	Liver
+TCGA-ED-A66X-01	TCGA-ED-A66X-01	12.14	Liver Hepatocellular Carcinoma	Liver
+TCGA-MR-A520-01	TCGA-MR-A520-01	12.14	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-5263-01	TCGA-CC-5263-01	12.13	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A1-01	TCGA-DD-A3A1-01	12.13	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A1-11	TCGA-DD-A3A1-11	12.13	Liver Hepatocellular Carcinoma	Liver
+TCGA-RC-A6M5-01	TCGA-RC-A6M5-01	12.13	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EI-01	TCGA-DD-A1EI-01	12.12	Liver Hepatocellular Carcinoma	Liver
+GTEX-13N11-0926-SM-5IJG2	GTEX-13N11-0926-SM-5IJG2	12.11	Liver	Liver
+TCGA-CC-A7IK-01	TCGA-CC-A7IK-01	12.11	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A2-01	TCGA-DD-A3A2-01	12.11	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADV-01	TCGA-DD-AADV-01	12.11	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-AAV7-01	TCGA-G3-AAV7-01	12.11	Liver Hepatocellular Carcinoma	Liver
+TCGA-ZP-A9CZ-01	TCGA-ZP-A9CZ-01	12.11	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADF-01	TCGA-DD-AADF-01	12.10	Liver Hepatocellular Carcinoma	Liver
+TCGA-WQ-AB4B-01	TCGA-WQ-AB4B-01	12.10	Liver Hepatocellular Carcinoma	Liver
+TCGA-RC-A6M6-01	TCGA-RC-A6M6-01	12.09	Liver Hepatocellular Carcinoma	Liver
+TCGA-MI-A75H-01	TCGA-MI-A75H-01	12.08	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACF-01	TCGA-DD-AACF-01	12.07	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACS-01	TCGA-DD-AACS-01	12.07	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAEI-01	TCGA-DD-AAEI-01	12.06	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A3MA-01	TCGA-CC-A3MA-01	12.05	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NG-01	TCGA-DD-A4NG-01	12.05	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADB-01	TCGA-DD-AADB-01	12.05	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADR-01	TCGA-DD-AADR-01	12.05	Liver Hepatocellular Carcinoma	Liver
+TCGA-EP-A3JL-01	TCGA-EP-A3JL-01	12.05	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9H8-01	TCGA-2Y-A9H8-01	12.04	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AA3A-01	TCGA-DD-AA3A-01	12.04	Liver Hepatocellular Carcinoma	Liver
+TCGA-UB-A7MB-01	TCGA-UB-A7MB-01	12.04	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NN-01	TCGA-DD-A4NN-01	12.03	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAC8-01	TCGA-DD-AAC8-01	12.03	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAE6-01	TCGA-DD-AAE6-01	12.03	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9H6-01	TCGA-2Y-A9H6-01	12.02	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A217-01	TCGA-BC-A217-01	12.02	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADQ-01	TCGA-DD-AADQ-01	12.02	Liver Hepatocellular Carcinoma	Liver
+TCGA-PD-A5DF-01	TCGA-PD-A5DF-01	12.02	Liver Hepatocellular Carcinoma	Liver
+TCGA-RC-A6M3-01	TCGA-RC-A6M3-01	12.02	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-5262-01	TCGA-CC-5262-01	12.01	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A115-01	TCGA-DD-A115-01	12.01	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A3CI-01	TCGA-G3-A3CI-01	12.01	Liver Hepatocellular Carcinoma	Liver
+TCGA-BW-A5NP-01	TCGA-BW-A5NP-01	12.00	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADI-01	TCGA-DD-AADI-01	12.00	Liver Hepatocellular Carcinoma	Liver
+TCGA-RC-A7S9-01	TCGA-RC-A7S9-01	12.00	Liver Hepatocellular Carcinoma	Liver
+TCGA-RC-A7SK-01	TCGA-RC-A7SK-01	12.00	Liver Hepatocellular Carcinoma	Liver
+TCGA-ZS-A9CE-01	TCGA-ZS-A9CE-01	12.00	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A8HS-01	TCGA-CC-A8HS-01	11.99	Liver Hepatocellular Carcinoma	Liver
+TCGA-ZS-A9CF-02	TCGA-ZS-A9CF-02	11.99	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A4-01	TCGA-DD-A3A4-01	11.98	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A5SL-01	TCGA-G3-A5SL-01	11.98	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A7M5-01	TCGA-G3-A7M5-01	11.96	Liver Hepatocellular Carcinoma	Liver
+TCGA-MI-A75G-01	TCGA-MI-A75G-01	11.96	Liver Hepatocellular Carcinoma	Liver
+TCGA-WJ-A86L-01	TCGA-WJ-A86L-01	11.96	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAVV-01	TCGA-DD-AAVV-01	11.94	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A25X-01	TCGA-G3-A25X-01	11.94	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-AAV3-01	TCGA-G3-AAV3-01	11.94	Liver Hepatocellular Carcinoma	Liver
+TCGA-MR-A8JO-01	TCGA-MR-A8JO-01	11.94	Liver Hepatocellular Carcinoma	Liver
+TCGA-RC-A7SB-01	TCGA-RC-A7SB-01	11.94	Liver Hepatocellular Carcinoma	Liver
+TCGA-4R-AA8I-01	TCGA-4R-AA8I-01	11.93	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACA-02	TCGA-DD-AACA-02	11.93	Liver Hepatocellular Carcinoma	Liver
+TCGA-EP-A26S-01	TCGA-EP-A26S-01	11.93	Liver Hepatocellular Carcinoma	Liver
+TCGA-RC-A6M4-01	TCGA-RC-A6M4-01	11.93	Liver Hepatocellular Carcinoma	Liver
+GTEX-Y5LM-0426-SM-4VBRO	GTEX-Y5LM-0426-SM-4VBRO	11.92	Liver	Liver
+TCGA-DD-AACJ-01	TCGA-DD-AACJ-01	11.92	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAEA-01	TCGA-DD-AAEA-01	11.91	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A2QQ-01	TCGA-FV-A2QQ-01	11.91	Liver Hepatocellular Carcinoma	Liver
+TCGA-UB-A7MC-01	TCGA-UB-A7MC-01	11.91	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A11B-01	TCGA-DD-A11B-01	11.90	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADP-01	TCGA-DD-AADP-01	11.90	Liver Hepatocellular Carcinoma	Liver
+TCGA-RG-A7D4-01	TCGA-RG-A7D4-01	11.90	Liver Hepatocellular Carcinoma	Liver
+TCGA-UB-AA0U-01	TCGA-UB-AA0U-01	11.90	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9GU-01	TCGA-2Y-A9GU-01	11.89	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A9FS-01	TCGA-CC-A9FS-01	11.89	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAEB-01	TCGA-DD-AAEB-01	11.89	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAVS-01	TCGA-DD-AAVS-01	11.89	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAVZ-01	TCGA-DD-AAVZ-01	11.89	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-AAV2-01	TCGA-G3-AAV2-01	11.89	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-4072-01	TCGA-BC-4072-01	11.88	Liver Hepatocellular Carcinoma	Liver
+TCGA-ED-A66Y-01	TCGA-ED-A66Y-01	11.88	Liver Hepatocellular Carcinoma	Liver
+TCGA-UB-A7ME-01	TCGA-UB-A7ME-01	11.88	Liver Hepatocellular Carcinoma	Liver
+TCGA-ZP-A9D2-01	TCGA-ZP-A9D2-01	11.88	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EH-11	TCGA-DD-A1EH-11	11.87	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACZ-01	TCGA-DD-AACZ-01	11.87	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A3R2-01	TCGA-FV-A3R2-01	11.87	Liver Hepatocellular Carcinoma	Liver
+TCGA-ZS-A9CD-01	TCGA-ZS-A9CD-01	11.87	Liver Hepatocellular Carcinoma	Liver
+GTEX-S32W-1926-SM-4AD63	GTEX-S32W-1926-SM-4AD63	11.86	Liver	Liver
+TCGA-2V-A95S-01	TCGA-2V-A95S-01	11.86	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9H7-01	TCGA-2Y-A9H7-01	11.86	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NE-01	TCGA-DD-A4NE-01	11.86	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NP-01	TCGA-DD-A4NP-01	11.86	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A3I1-01	TCGA-FV-A3I1-01	11.86	Liver Hepatocellular Carcinoma	Liver
+TCGA-WQ-A9G7-01	TCGA-WQ-A9G7-01	11.86	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A10U-01	TCGA-BC-A10U-01	11.85	Liver Hepatocellular Carcinoma	Liver
+TCGA-EP-A26S-11	TCGA-EP-A26S-11	11.85	Liver Hepatocellular Carcinoma	Liver
+TCGA-O8-A75V-01	TCGA-O8-A75V-01	11.85	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACI-01	TCGA-DD-AACI-01	11.84	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAVQ-01	TCGA-DD-AAVQ-01	11.84	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A25Y-01	TCGA-G3-A25Y-01	11.84	Liver Hepatocellular Carcinoma	Liver
+TCGA-KR-A7K8-01	TCGA-KR-A7K8-01	11.84	Liver Hepatocellular Carcinoma	Liver
+GTEX-YB5E-0326-SM-5IFHU	GTEX-YB5E-0326-SM-5IFHU	11.83	Liver	Liver
+TCGA-3K-AAZ8-01	TCGA-3K-AAZ8-01	11.83	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A3MC-01	TCGA-CC-A3MC-01	11.83	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A8-01	TCGA-DD-A3A8-01	11.83	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NA-01	TCGA-DD-A4NA-01	11.83	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAD5-01	TCGA-DD-AAD5-01	11.83	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A7IE-01	TCGA-CC-A7IE-01	11.82	Liver Hepatocellular Carcinoma	Liver
+TCGA-5R-AA1C-01	TCGA-5R-AA1C-01	11.81	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-5264-01	TCGA-CC-5264-01	11.81	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NH-01	TCGA-DD-A4NH-01	11.81	Liver Hepatocellular Carcinoma	Liver
+TCGA-MI-A75E-01	TCGA-MI-A75E-01	11.81	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9HB-01	TCGA-2Y-A9HB-01	11.80	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A10W-11	TCGA-BC-A10W-11	11.80	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EB-01	TCGA-DD-A1EB-01	11.80	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A73F-01	TCGA-DD-A73F-01	11.80	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADG-01	TCGA-DD-AADG-01	11.80	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A69I-01	TCGA-BC-A69I-01	11.79	Liver Hepatocellular Carcinoma	Liver
+TCGA-BW-A5NQ-01	TCGA-BW-A5NQ-01	11.79	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A6-11	TCGA-DD-A3A6-11	11.79	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A39V-11	TCGA-DD-A39V-11	11.78	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A39Z-11	TCGA-DD-A39Z-11	11.78	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAE0-01	TCGA-DD-AAE0-01	11.78	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACA-01	TCGA-DD-AACA-01	11.77	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACX-01	TCGA-DD-AACX-01	11.77	Liver Hepatocellular Carcinoma	Liver
+TCGA-ED-A82E-01	TCGA-ED-A82E-01	11.77	Liver Hepatocellular Carcinoma	Liver
+TCGA-LG-A6GG-01	TCGA-LG-A6GG-01	11.77	Liver Hepatocellular Carcinoma	Liver
+TCGA-ZP-A9D4-01	TCGA-ZP-A9D4-01	11.77	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACW-01	TCGA-DD-AACW-01	11.76	Liver Hepatocellular Carcinoma	Liver
+TCGA-KR-A7K0-01	TCGA-KR-A7K0-01	11.76	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A25V-01	TCGA-G3-A25V-01	11.75	Liver Hepatocellular Carcinoma	Liver
+TCGA-GJ-A9DB-01	TCGA-GJ-A9DB-01	11.75	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9H9-01	TCGA-2Y-A9H9-01	11.74	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A10X-01	TCGA-BC-A10X-01	11.74	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A9FV-01	TCGA-CC-A9FV-01	11.74	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EF-01	TCGA-DD-A1EF-01	11.74	Liver Hepatocellular Carcinoma	Liver
+GTEX-O5YT-0826-SM-3TW8N	GTEX-O5YT-0826-SM-3TW8N	11.73	Liver	Liver
+TCGA-DD-A1EI-11	TCGA-DD-A1EI-11	11.73	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A39W-11	TCGA-DD-A39W-11	11.73	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NO-01	TCGA-DD-A4NO-01	11.73	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A7M8-01	TCGA-G3-A7M8-01	11.73	Liver Hepatocellular Carcinoma	Liver
+TCGA-GJ-A6C0-01	TCGA-GJ-A6C0-01	11.73	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A7IJ-01	TCGA-CC-A7IJ-01	11.72	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EJ-11	TCGA-DD-A1EJ-11	11.72	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A6-01	TCGA-DD-A3A6-01	11.72	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAEH-01	TCGA-DD-AAEH-01	11.72	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A118-11	TCGA-DD-A118-11	11.71	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EC-01	TCGA-DD-A1EC-01	11.71	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EG-01	TCGA-DD-A1EG-01	11.71	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A39X-11	TCGA-DD-A39X-11	11.71	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAE1-01	TCGA-DD-AAE1-01	11.71	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAVW-01	TCGA-DD-AAVW-01	11.71	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A3CH-01	TCGA-G3-A3CH-01	11.71	Liver Hepatocellular Carcinoma	Liver
+TCGA-HP-A5MZ-01	TCGA-HP-A5MZ-01	11.71	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A10Q-11	TCGA-BC-A10Q-11	11.70	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EL-11	TCGA-DD-A1EL-11	11.70	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A2QR-01	TCGA-FV-A2QR-01	11.70	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EB-11	TCGA-DD-A1EB-11	11.69	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A4-11	TCGA-DD-A3A4-11	11.68	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADW-01	TCGA-DD-AADW-01	11.68	Liver Hepatocellular Carcinoma	Liver
+TCGA-EP-A3RK-11	TCGA-EP-A3RK-11	11.68	Liver Hepatocellular Carcinoma	Liver
+TCGA-5C-A9VH-01	TCGA-5C-A9VH-01	11.67	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A116-11	TCGA-DD-A116-11	11.67	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EK-01	TCGA-DD-A1EK-01	11.67	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A73D-01	TCGA-DD-A73D-01	11.67	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACU-01	TCGA-DD-AACU-01	11.67	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAD6-01	TCGA-DD-AAD6-01	11.67	Liver Hepatocellular Carcinoma	Liver
+TCGA-K7-A6G5-01	TCGA-K7-A6G5-01	11.67	Liver Hepatocellular Carcinoma	Liver
+TCGA-WX-AA46-01	TCGA-WX-AA46-01	11.67	Liver Hepatocellular Carcinoma	Liver
+GTEX-12696-0826-SM-5EGGE	GTEX-12696-0826-SM-5EGGE	11.66	Liver	Liver
+TCGA-DD-AACC-01	TCGA-DD-AACC-01	11.66	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A11C-01	TCGA-DD-A11C-01	11.65	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NJ-01	TCGA-DD-A4NJ-01	11.65	Liver Hepatocellular Carcinoma	Liver
+TCGA-5R-AA1D-01	TCGA-5R-AA1D-01	11.64	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAW0-01	TCGA-DD-AAW0-01	11.64	Liver Hepatocellular Carcinoma	Liver
+TCGA-ED-A7PY-01	TCGA-ED-A7PY-01	11.64	Liver Hepatocellular Carcinoma	Liver
+TCGA-ED-A7XP-01	TCGA-ED-A7XP-01	11.64	Liver Hepatocellular Carcinoma	Liver
+GTEX-13FTW-1126-SM-5J2NV	GTEX-13FTW-1126-SM-5J2NV	11.63	Liver	Liver
+TCGA-CC-A5UD-01	TCGA-CC-A5UD-01	11.63	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACY-01	TCGA-DD-AACY-01	11.63	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A3CK-01	TCGA-G3-A3CK-01	11.63	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-AAV1-01	TCGA-G3-AAV1-01	11.63	Liver Hepatocellular Carcinoma	Liver
+TCGA-ZP-A9CY-01	TCGA-ZP-A9CY-01	11.63	Liver Hepatocellular Carcinoma	Liver
+GTEX-WY7C-0726-SM-4ONCB	GTEX-WY7C-0726-SM-4ONCB	11.62	Liver	Liver
+TCGA-BC-A10Q-01	TCGA-BC-A10Q-01	11.62	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A10X-11	TCGA-BC-A10X-11	11.62	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAC9-01	TCGA-DD-AAC9-01	11.62	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A10S-01	TCGA-BC-A10S-01	11.61	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADU-01	TCGA-DD-AADU-01	11.61	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A23B-01	TCGA-FV-A23B-01	11.61	Liver Hepatocellular Carcinoma	Liver
+TCGA-K7-AAU7-01	TCGA-K7-AAU7-01	11.61	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EG-11	TCGA-DD-A1EG-11	11.60	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A73E-01	TCGA-DD-A73E-01	11.60	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAD2-01	TCGA-DD-AAD2-01	11.60	Liver Hepatocellular Carcinoma	Liver
+TCGA-ED-A4XI-01	TCGA-ED-A4XI-01	11.60	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A496-01	TCGA-FV-A496-01	11.60	Liver Hepatocellular Carcinoma	Liver
+TCGA-QA-A7B7-01	TCGA-QA-A7B7-01	11.60	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A5UE-01	TCGA-CC-A5UE-01	11.59	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A39W-01	TCGA-DD-A39W-01	11.59	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A73A-01	TCGA-DD-A73A-01	11.59	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACE-01	TCGA-DD-AACE-01	11.59	Liver Hepatocellular Carcinoma	Liver
+TCGA-ZS-A9CF-01	TCGA-ZS-A9CF-01	11.59	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A216-01	TCGA-BC-A216-01	11.58	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A11B-11	TCGA-DD-A11B-11	11.58	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EE-01	TCGA-DD-A1EE-01	11.58	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAW1-01	TCGA-DD-AAW1-01	11.58	Liver Hepatocellular Carcinoma	Liver
+TCGA-ED-A8O6-01	TCGA-ED-A8O6-01	11.58	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A5-11	TCGA-DD-A3A5-11	11.57	Liver Hepatocellular Carcinoma	Liver
+TCGA-EP-A2KC-01	TCGA-EP-A2KC-01	11.57	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9GZ-01	TCGA-2Y-A9GZ-01	11.56	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAW3-01	TCGA-DD-AAW3-01	11.56	Liver Hepatocellular Carcinoma	Liver
+TCGA-GJ-A3OU-01	TCGA-GJ-A3OU-01	11.56	Liver Hepatocellular Carcinoma	Liver
+TCGA-KR-A7K2-01	TCGA-KR-A7K2-01	11.56	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A10T-11	TCGA-BC-A10T-11	11.55	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NB-01	TCGA-DD-A4NB-01	11.55	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4ND-01	TCGA-DD-A4ND-01	11.55	Liver Hepatocellular Carcinoma	Liver
+TCGA-ZS-A9CG-01	TCGA-ZS-A9CG-01	11.55	Liver Hepatocellular Carcinoma	Liver
+GTEX-ZF29-2026-SM-4WWB7	GTEX-ZF29-2026-SM-4WWB7	11.54	Liver	Liver
+TCGA-DD-A4NQ-01	TCGA-DD-A4NQ-01	11.54	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAEK-01	TCGA-DD-AAEK-01	11.54	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A3CH-11	TCGA-G3-A3CH-11	11.54	Liver Hepatocellular Carcinoma	Liver
+TCGA-XR-A8TG-01	TCGA-XR-A8TG-01	11.54	Liver Hepatocellular Carcinoma	Liver
+GTEX-14C38-1526-SM-5RQJ7	GTEX-14C38-1526-SM-5RQJ7	11.53	Liver	Liver
+TCGA-BC-A216-11	TCGA-BC-A216-11	11.53	Liver Hepatocellular Carcinoma	Liver
+TCGA-ED-A459-01	TCGA-ED-A459-01	11.53	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A2-11	TCGA-DD-A3A2-11	11.52	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NF-01	TCGA-DD-A4NF-01	11.52	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAVX-01	TCGA-DD-AAVX-01	11.52	Liver Hepatocellular Carcinoma	Liver
+TCGA-EP-A12J-11	TCGA-EP-A12J-11	11.52	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A10U-11	TCGA-BC-A10U-11	11.51	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A73C-01	TCGA-DD-A73C-01	11.51	Liver Hepatocellular Carcinoma	Liver
+TCGA-RC-A7SF-01	TCGA-RC-A7SF-01	11.51	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A114-11	TCGA-DD-A114-11	11.50	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAE7-01	TCGA-DD-AAE7-01	11.50	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A7M6-01	TCGA-G3-A7M6-01	11.50	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A10Z-11	TCGA-BC-A10Z-11	11.49	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADL-01	TCGA-DD-AADL-01	11.49	Liver Hepatocellular Carcinoma	Liver
+TCGA-5R-AAAM-01	TCGA-5R-AAAM-01	11.48	Liver Hepatocellular Carcinoma	Liver
+TCGA-BD-A3ER-01	TCGA-BD-A3ER-01	11.48	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-AAV4-01	TCGA-G3-AAV4-01	11.48	Liver Hepatocellular Carcinoma	Liver
+TCGA-UB-AA0V-01	TCGA-UB-AA0V-01	11.48	Liver Hepatocellular Carcinoma	Liver
+GTEX-1497J-0726-SM-5Q5D1	GTEX-1497J-0726-SM-5Q5D1	11.47	Liver	Liver
+TCGA-BC-A10R-11	TCGA-BC-A10R-11	11.47	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A110-11	TCGA-BC-A110-11	11.47	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A11D-11	TCGA-DD-A11D-11	11.47	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A3CG-01	TCGA-G3-A3CG-01	11.47	Liver Hepatocellular Carcinoma	Liver
+GTEX-14753-1626-SM-5NQ9L	GTEX-14753-1626-SM-5NQ9L	11.46	Liver	Liver
+TCGA-DD-AAVY-01	TCGA-DD-AAVY-01	11.46	Liver Hepatocellular Carcinoma	Liver
+GTEX-11EQ9-0526-SM-5A5JZ	GTEX-11EQ9-0526-SM-5A5JZ	11.45	Liver	Liver
+TCGA-DD-AACN-01	TCGA-DD-AACN-01	11.45	Liver Hepatocellular Carcinoma	Liver
+TCGA-ED-A8O5-01	TCGA-ED-A8O5-01	11.45	Liver Hepatocellular Carcinoma	Liver
+TCGA-ES-A2HT-11	TCGA-ES-A2HT-11	11.45	Liver Hepatocellular Carcinoma	Liver
+GTEX-13FTZ-0726-SM-5IFFY	GTEX-13FTZ-0726-SM-5IFFY	11.44	Liver	Liver
+TCGA-2Y-A9GW-01	TCGA-2Y-A9GW-01	11.44	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A10Y-11	TCGA-BC-A10Y-11	11.44	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NV-01	TCGA-DD-A4NV-01	11.44	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A3R2-11	TCGA-FV-A3R2-11	11.44	Liver Hepatocellular Carcinoma	Liver
+GTEX-ZYT6-0626-SM-5E45V	GTEX-ZYT6-0626-SM-5E45V	11.43	Liver	Liver
+TCGA-BC-A10R-01	TCGA-BC-A10R-01	11.43	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EA-01	TCGA-DD-A1EA-01	11.43	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1EH-01	TCGA-DD-A1EH-01	11.43	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACT-01	TCGA-DD-AACT-01	11.43	Liver Hepatocellular Carcinoma	Liver
+TCGA-LG-A9QD-01	TCGA-LG-A9QD-01	11.43	Liver Hepatocellular Carcinoma	Liver
+GTEX-132AR-0426-SM-5IFH8	GTEX-132AR-0426-SM-5IFH8	11.42	Liver	Liver
+TCGA-DD-A113-11	TCGA-DD-A113-11	11.42	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAD3-01	TCGA-DD-AAD3-01	11.42	Liver Hepatocellular Carcinoma	Liver
+TCGA-ED-A7XO-01	TCGA-ED-A7XO-01	11.42	Liver Hepatocellular Carcinoma	Liver
+TCGA-WX-AA44-01	TCGA-WX-AA44-01	11.42	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9H5-01	TCGA-2Y-A9H5-01	11.41	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A1ED-01	TCGA-DD-A1ED-01	11.41	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A3A3-11	TCGA-DD-A3A3-11	11.41	Liver Hepatocellular Carcinoma	Liver
+TCGA-EP-A12J-01	TCGA-EP-A12J-01	11.41	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A23B-11	TCGA-FV-A23B-11	11.41	Liver Hepatocellular Carcinoma	Liver
+GTEX-ZPU1-0826-SM-57WG2	GTEX-ZPU1-0826-SM-57WG2	11.40	Liver	Liver
+GTEX-ZZPU-0426-SM-5GZYH	GTEX-ZZPU-0426-SM-5GZYH	11.40	Liver	Liver
+TCGA-DD-AAED-01	TCGA-DD-AAED-01	11.40	Liver Hepatocellular Carcinoma	Liver
+TCGA-LG-A9QC-01	TCGA-LG-A9QC-01	11.40	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A112-01	TCGA-BC-A112-01	11.39	Liver Hepatocellular Carcinoma	Liver
+TCGA-BD-A2L6-11	TCGA-BD-A2L6-11	11.39	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NI-01	TCGA-DD-A4NI-01	11.39	Liver Hepatocellular Carcinoma	Liver
+GTEX-13NZ9-1326-SM-5MR3V	GTEX-13NZ9-1326-SM-5MR3V	11.38	Liver	Liver
+GTEX-UPIC-0926-SM-4IHLV	GTEX-UPIC-0926-SM-4IHLV	11.38	Liver	Liver
+GTEX-ZVP2-0626-SM-51MSO	GTEX-ZVP2-0626-SM-51MSO	11.38	Liver	Liver
+GTEX-13NYB-1026-SM-5IFH3	GTEX-13NYB-1026-SM-5IFH3	11.37	Liver	Liver
+TCGA-DD-A11A-11	TCGA-DD-A11A-11	11.37	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A11C-11	TCGA-DD-A11C-11	11.37	Liver Hepatocellular Carcinoma	Liver
+TCGA-K7-A5RF-01	TCGA-K7-A5RF-01	11.37	Liver Hepatocellular Carcinoma	Liver
+GTEX-13PVR-0126-SM-5S2PY	GTEX-13PVR-0126-SM-5S2PY	11.36	Liver	Liver
+TCGA-DD-A119-11	TCGA-DD-A119-11	11.36	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9GV-01	TCGA-2Y-A9GV-01	11.35	Liver Hepatocellular Carcinoma	Liver
+TCGA-BW-A5NO-01	TCGA-BW-A5NO-01	11.34	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A2QR-11	TCGA-FV-A2QR-11	11.34	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9GS-01	TCGA-2Y-A9GS-01	11.33	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A110-01	TCGA-BC-A110-01	11.33	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A3I0-11	TCGA-FV-A3I0-11	11.33	Liver Hepatocellular Carcinoma	Liver
+GTEX-147JS-1126-SM-5RQIW	GTEX-147JS-1126-SM-5RQIW	11.32	Liver	Liver
+GTEX-1269C-0626-SM-5FQSS	GTEX-1269C-0626-SM-5FQSS	11.31	Liver	Liver
+TCGA-5C-AAPD-01	TCGA-5C-AAPD-01	11.31	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAW2-01	TCGA-DD-AAW2-01	11.31	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A3I1-11	TCGA-FV-A3I1-11	11.31	Liver Hepatocellular Carcinoma	Liver
+TCGA-ZP-A9CV-01	TCGA-ZP-A9CV-01	11.31	Liver Hepatocellular Carcinoma	Liver
+GTEX-13FLV-0326-SM-5N9DJ	GTEX-13FLV-0326-SM-5N9DJ	11.30	Liver	Liver
+TCGA-BD-A2L6-01	TCGA-BD-A2L6-01	11.30	Liver Hepatocellular Carcinoma	Liver
+TCGA-FV-A3I0-01	TCGA-FV-A3I0-01	11.30	Liver Hepatocellular Carcinoma	Liver
+GTEX-11NV4-1326-SM-5HL6V	GTEX-11NV4-1326-SM-5HL6V	11.29	Liver	Liver
+TCGA-DD-A1EC-11	TCGA-DD-A1EC-11	11.29	Liver Hepatocellular Carcinoma	Liver
+GTEX-13SLX-1226-SM-5S2Q6	GTEX-13SLX-1226-SM-5S2Q6	11.28	Liver	Liver
+TCGA-BD-A3EP-11	TCGA-BD-A3EP-11	11.27	Liver Hepatocellular Carcinoma	Liver
+GTEX-QDVN-0826-SM-48TZ2	GTEX-QDVN-0826-SM-48TZ2	11.26	Liver	Liver
+GTEX-YECK-1926-SM-4W21H	GTEX-YECK-1926-SM-4W21H	11.26	Liver	Liver
+TCGA-DD-A1EE-11	TCGA-DD-A1EE-11	11.26	Liver Hepatocellular Carcinoma	Liver
+TCGA-K7-A5RG-01	TCGA-K7-A5RG-01	11.25	Liver Hepatocellular Carcinoma	Liver
+GTEX-12WSL-0226-SM-5CVMJ	GTEX-12WSL-0226-SM-5CVMJ	11.24	Liver	Liver
+GTEX-139UC-1426-SM-5IJGH	GTEX-139UC-1426-SM-5IJGH	11.24	Liver	Liver
+TCGA-ED-A5KG-01	TCGA-ED-A5KG-01	11.24	Liver Hepatocellular Carcinoma	Liver
+TCGA-G3-A6UC-01	TCGA-G3-A6UC-01	11.24	Liver Hepatocellular Carcinoma	Liver
+TCGA-ZP-A9D1-01	TCGA-ZP-A9D1-01	11.24	Liver Hepatocellular Carcinoma	Liver
+TCGA-2Y-A9GX-01	TCGA-2Y-A9GX-01	11.23	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NL-01	TCGA-DD-A4NL-01	11.23	Liver Hepatocellular Carcinoma	Liver
+GTEX-1399R-1226-SM-5P9GF	GTEX-1399R-1226-SM-5P9GF	11.22	Liver	Liver
+GTEX-144GM-1326-SM-5LU5E	GTEX-144GM-1326-SM-5LU5E	11.22	Liver	Liver
+GTEX-RU72-1426-SM-46MUF	GTEX-RU72-1426-SM-46MUF	11.22	Liver	Liver
+GTEX-13113-1326-SM-5GCOI	GTEX-13113-1326-SM-5GCOI	11.21	Liver	Liver
+GTEX-OOBJ-0826-SM-3NB2K	GTEX-OOBJ-0826-SM-3NB2K	11.21	Liver	Liver
+GTEX-P78B-1326-SM-3P611	GTEX-P78B-1326-SM-3P611	11.21	Liver	Liver
+TCGA-2Y-A9H2-01	TCGA-2Y-A9H2-01	11.20	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAD1-01	TCGA-DD-AAD1-01	11.20	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADA-01	TCGA-DD-AADA-01	11.20	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-5258-01	TCGA-CC-5258-01	11.19	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACH-01	TCGA-DD-AACH-01	11.19	Liver Hepatocellular Carcinoma	Liver
+GTEX-11TUW-1726-SM-5BC5C	GTEX-11TUW-1726-SM-5BC5C	11.18	Liver	Liver
+GTEX-XOTO-0826-SM-4B65O	GTEX-XOTO-0826-SM-4B65O	11.18	Liver	Liver
+TCGA-ED-A627-01	TCGA-ED-A627-01	11.18	Liver Hepatocellular Carcinoma	Liver
+GTEX-12KS4-1326-SM-5LUB3	GTEX-12KS4-1326-SM-5LUB3	11.17	Liver	Liver
+TCGA-CC-A1HT-01	TCGA-CC-A1HT-01	11.17	Liver Hepatocellular Carcinoma	Liver
+TCGA-YA-A8S7-01	TCGA-YA-A8S7-01	11.17	Liver Hepatocellular Carcinoma	Liver
+GTEX-ZAB5-0426-SM-5CVMI	GTEX-ZAB5-0426-SM-5CVMI	11.16	Liver	Liver
+TCGA-2Y-A9H4-01	TCGA-2Y-A9H4-01	11.16	Liver Hepatocellular Carcinoma	Liver
+TCGA-CC-A3MB-01	TCGA-CC-A3MB-01	11.16	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAD8-01	TCGA-DD-AAD8-01	11.16	Liver Hepatocellular Carcinoma	Liver
+GTEX-1212Z-0226-SM-59HLF	GTEX-1212Z-0226-SM-59HLF	11.15	Liver	Liver
+GTEX-1399T-0826-SM-5IFES	GTEX-1399T-0826-SM-5IFES	11.15	Liver	Liver
+TCGA-NI-A4U2-01	TCGA-NI-A4U2-01	11.15	Liver Hepatocellular Carcinoma	Liver
+GTEX-ZEX8-0826-SM-4WKHK	GTEX-ZEX8-0826-SM-4WKHK	11.14	Liver	Liver
+TCGA-BC-A10Y-01	TCGA-BC-A10Y-01	11.14	Liver Hepatocellular Carcinoma	Liver
+GTEX-11ZUS-2526-SM-59872	GTEX-11ZUS-2526-SM-59872	11.13	Liver	Liver
+GTEX-12WSI-0226-SM-5GCNA	GTEX-12WSI-0226-SM-5GCNA	11.13	Liver	Liver
+GTEX-12WSM-0726-SM-5GCOW	GTEX-12WSM-0726-SM-5GCOW	11.13	Liver	Liver
+GTEX-WQUQ-1926-SM-4OOSA	GTEX-WQUQ-1926-SM-4OOSA	11.13	Liver	Liver
+TCGA-CC-5261-01	TCGA-CC-5261-01	11.13	Liver Hepatocellular Carcinoma	Liver
+GTEX-ZVT3-1626-SM-5GU66	GTEX-ZVT3-1626-SM-5GU66	11.12	Liver	Liver
+TCGA-BC-4073-01	TCGA-BC-4073-01	11.12	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NS-01	TCGA-DD-A4NS-01	11.12	Liver Hepatocellular Carcinoma	Liver
+GTEX-11ZTS-1426-SM-5EQMM	GTEX-11ZTS-1426-SM-5EQMM	11.11	Liver	Liver
+GTEX-147F4-1426-SM-5LUA8	GTEX-147F4-1426-SM-5LUA8	11.11	Liver	Liver
+GTEX-11OF3-0726-SM-5BC4Z	GTEX-11OF3-0726-SM-5BC4Z	11.10	Liver	Liver
+GTEX-139TU-0826-SM-5IJFG	GTEX-139TU-0826-SM-5IJFG	11.10	Liver	Liver
+GTEX-S33H-1626-SM-4AD68	GTEX-S33H-1626-SM-4AD68	11.10	Liver	Liver
+GTEX-XXEK-1126-SM-4BRUX	GTEX-XXEK-1126-SM-4BRUX	11.10	Liver	Liver
+GTEX-YFC4-1526-SM-5IFJS	GTEX-YFC4-1526-SM-5IFJS	11.10	Liver	Liver
+TCGA-2Y-A9GT-01	TCGA-2Y-A9GT-01	11.10	Liver Hepatocellular Carcinoma	Liver
+GTEX-139TS-1426-SM-5IFJD	GTEX-139TS-1426-SM-5IFJD	11.09	Liver	Liver
+GTEX-RM2N-1926-SM-48FCU	GTEX-RM2N-1926-SM-48FCU	11.09	Liver	Liver
+GTEX-Z9EW-0426-SM-5CVM9	GTEX-Z9EW-0426-SM-5CVM9	11.09	Liver	Liver
+GTEX-11DXY-0526-SM-5EGGQ	GTEX-11DXY-0526-SM-5EGGQ	11.08	Liver	Liver
+GTEX-13O3O-1826-SM-5IFGW	GTEX-13O3O-1826-SM-5IFGW	11.07	Liver	Liver
+GTEX-ZF2S-3026-SM-4WWCH	GTEX-ZF2S-3026-SM-4WWCH	11.07	Liver	Liver
+TCGA-DD-AACQ-01	TCGA-DD-AACQ-01	11.07	Liver Hepatocellular Carcinoma	Liver
+GTEX-QEG4-1826-SM-4R1JN	GTEX-QEG4-1826-SM-4R1JN	11.06	Liver	Liver
+GTEX-T6MN-1226-SM-3NMA5	GTEX-T6MN-1226-SM-3NMA5	11.06	Liver	Liver
+GTEX-WFON-1726-SM-4LVMQ	GTEX-WFON-1726-SM-4LVMQ	11.06	Liver	Liver
+GTEX-Y5V5-0926-SM-4VBPZ	GTEX-Y5V5-0926-SM-4VBPZ	11.06	Liver	Liver
+TCGA-BC-A5W4-01	TCGA-BC-A5W4-01	11.06	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A11D-01	TCGA-DD-A11D-01	11.06	Liver Hepatocellular Carcinoma	Liver
+GTEX-ZTPG-1426-SM-51MT3	GTEX-ZTPG-1426-SM-51MT3	11.05	Liver	Liver
+GTEX-131XH-0626-SM-5LZWH	GTEX-131XH-0626-SM-5LZWH	11.04	Liver	Liver
+GTEX-WYVS-1926-SM-4PQZ2	GTEX-WYVS-1926-SM-4PQZ2	11.04	Liver	Liver
+TCGA-BD-A3EP-01	TCGA-BD-A3EP-01	11.04	Liver Hepatocellular Carcinoma	Liver
+TCGA-XR-A8TE-01	TCGA-XR-A8TE-01	11.04	Liver Hepatocellular Carcinoma	Liver
+TCGA-UB-A7MD-01	TCGA-UB-A7MD-01	11.02	Liver Hepatocellular Carcinoma	Liver
+GTEX-13OW6-2626-SM-5IFF2	GTEX-13OW6-2626-SM-5IFF2	11.01	Liver	Liver
+GTEX-SJXC-1226-SM-4DM78	GTEX-SJXC-1226-SM-4DM78	11.01	Liver	Liver
+GTEX-RTLS-1326-SM-46MUN	GTEX-RTLS-1326-SM-46MUN	11.00	Liver	Liver
+TCGA-CC-A8HT-01	TCGA-CC-A8HT-01	11.00	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-A4NK-01	TCGA-DD-A4NK-01	10.99	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AACV-01	TCGA-DD-AACV-01	10.98	Liver Hepatocellular Carcinoma	Liver
+GTEX-139YR-0226-SM-5IFEM	GTEX-139YR-0226-SM-5IFEM	10.97	Liver	Liver
+GTEX-11NUK-1226-SM-5P9GM	GTEX-11NUK-1226-SM-5P9GM	10.96	Liver	Liver
+GTEX-13VXU-0926-SM-5IFFH	GTEX-13VXU-0926-SM-5IFFH	10.95	Liver	Liver
+GTEX-11DXZ-0126-SM-5EGGY	GTEX-11DXZ-0126-SM-5EGGY	10.94	Liver	Liver
+GTEX-14E1K-0326-SM-5S2PE	GTEX-14E1K-0326-SM-5S2PE	10.93	Liver	Liver
+GTEX-X4XY-1626-SM-46MVN	GTEX-X4XY-1626-SM-46MVN	10.93	Liver	Liver
+TCGA-DD-A114-01	TCGA-DD-A114-01	10.93	Liver Hepatocellular Carcinoma	Liver
+GTEX-U8XE-1526-SM-4E3HT	GTEX-U8XE-1526-SM-4E3HT	10.92	Liver	Liver
+GTEX-X261-1726-SM-4PQYT	GTEX-X261-1726-SM-4PQYT	10.92	Liver	Liver
+GTEX-ZYY3-0626-SM-5NQ6W	GTEX-ZYY3-0626-SM-5NQ6W	10.90	Liver	Liver
+GTEX-14A5I-1726-SM-5QGQ5	GTEX-14A5I-1726-SM-5QGQ5	10.89	Liver	Liver
+TCGA-BC-A8YO-01	TCGA-BC-A8YO-01	10.89	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AAE2-01	TCGA-DD-AAE2-01	10.89	Liver Hepatocellular Carcinoma	Liver
+GTEX-11WQC-0726-SM-5EQMR	GTEX-11WQC-0726-SM-5EQMR	10.87	Liver	Liver
+TCGA-HP-A5N0-01	TCGA-HP-A5N0-01	10.87	Liver Hepatocellular Carcinoma	Liver
+GTEX-131YS-1626-SM-5HL6C	GTEX-131YS-1626-SM-5HL6C	10.86	Liver	Liver
+GTEX-13QJC-0726-SM-5RQJK	GTEX-13QJC-0726-SM-5RQJK	10.86	Liver	Liver
+GTEX-WYVS-1926-SM-4SOIC	GTEX-WYVS-1926-SM-4SOIC	10.86	Liver	Liver
+GTEX-11ZVC-0726-SM-5FQT9	GTEX-11ZVC-0726-SM-5FQT9	10.85	Liver	Liver
+TCGA-G3-A25U-01	TCGA-G3-A25U-01	10.85	Liver Hepatocellular Carcinoma	Liver
+TCGA-BC-A10W-01	TCGA-BC-A10W-01	10.84	Liver Hepatocellular Carcinoma	Liver
+TCGA-DD-AADY-01	TCGA-DD-AADY-01	10.84	Liver Hepatocellular Carcinoma	Liver
+GTEX-RWSA-1426-SM-47JXA	GTEX-RWSA-1426-SM-47JXA	10.80	Liver	Liver
+TCGA-CC-5260-01	TCGA-CC-5260-01	10.77	Liver Hepatocellular Carcinoma	Liver
+GTEX-13112-1426-SM-5EGH8	GTEX-13112-1426-SM-5EGH8	10.75	Liver	Liver
+GTEX-13OVJ-1026-SM-5IFGI	GTEX-13OVJ-1026-SM-5IFGI	10.75	Liver	Liver
+GTEX-P44G-1126-SM-3NM9D	GTEX-P44G-1126-SM-3NM9D	10.75	Liver	Liver
+TCGA-ED-A97K-01	TCGA-ED-A97K-01	10.75	Liver Hepatocellular Carcinoma	Liver
+GTEX-VUSG-0126-SM-4KL1X	GTEX-VUSG-0126-SM-4KL1X	10.74	Liver	Liver
+GTEX-131XE-0326-SM-5LZVO	GTEX-131XE-0326-SM-5LZVO	10.72	Liver	Liver
+GTEX-ZVT4-0626-SM-5E45T	GTEX-ZVT4-0626-SM-5E45T	10.69	Liver	Liver
+GTEX-13NZB-0626-SM-5IFH6	GTEX-13NZB-0626-SM-5IFH6	10.68	Liver	Liver
+GTEX-12ZZZ-1326-SM-59HKW	GTEX-12ZZZ-1326-SM-59HKW	10.66	Liver	Liver
+GTEX-WZTO-0626-SM-4PQYY	GTEX-WZTO-0626-SM-4PQYY	10.66	Liver	Liver
+GTEX-X4EP-1026-SM-4QAS5	GTEX-X4EP-1026-SM-4QAS5	10.66	Liver	Liver
+GTEX-Q2AG-1126-SM-48U1P	GTEX-Q2AG-1126-SM-48U1P	10.64	Liver	Liver
+TCGA-DD-AAD0-01	TCGA-DD-AAD0-01	10.64	Liver Hepatocellular Carcinoma	Liver
+GTEX-RN64-1826-SM-48FDV	GTEX-RN64-1826-SM-48FDV	10.60	Liver	Liver
+GTEX-RNOR-1426-SM-48FDJ	GTEX-RNOR-1426-SM-48FDJ	10.60	Liver	Liver
+TCGA-G3-A5SJ-01	TCGA-G3-A5SJ-01	10.59	Liver Hepatocellular Carcinoma	Liver
+GTEX-UTHO-2426-SM-4JBHD	GTEX-UTHO-2426-SM-4JBHD	10.58	Liver	Liver
+GTEX-13PVQ-1526-SM-5IFEQ	GTEX-13PVQ-1526-SM-5IFEQ	10.57	Liver	Liver
+GTEX-145LU-1326-SM-5LU9N	GTEX-145LU-1326-SM-5LU9N	10.54	Liver	Liver
+TCGA-G3-A5SK-01	TCGA-G3-A5SK-01	10.53	Liver Hepatocellular Carcinoma	Liver
+GTEX-1192X-1026-SM-5H12P	GTEX-1192X-1026-SM-5H12P	10.51	Liver	Liver
+GTEX-XBEC-1526-SM-4AT68	GTEX-XBEC-1526-SM-4AT68	10.38	Liver	Liver
+GTEX-11UD2-1626-SM-5EQM3	GTEX-11UD2-1626-SM-5EQM3	10.35	Liver	Liver
+GTEX-ZAB4-0826-SM-5LU9D	GTEX-ZAB4-0826-SM-5LU9D	10.27	Liver	Liver
