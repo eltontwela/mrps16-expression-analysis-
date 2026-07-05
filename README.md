@@ -80,15 +80,7 @@ mrps16-expression-analysis/
 │   ├── mrps16_boxplots.png
 │   └── mrps16_statistiques.csv
 │
-├── presentation/
-│
-├── docs/
-│
-├── requirements.txt
-│
 ├── README.md
-│
-└── LICENSE
 ```
 
 ---
