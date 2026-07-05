@@ -143,11 +143,7 @@ If you use this repository, please cite:
 ---
 
 ## Authors
-TWELA MWAY Elton
-KASONGO NJIMINY Landers
-NGOLO MALONDA Kethia
-MUELA BANANGA Miradel
-OYEMA MBOLADINGA Dawen
+TWELA MWAY Elton, KASONGO NJIMINY Landers, NGOLO MALONDA Kethia, MUELA BANANGA Miradel, OYEMA MBOLADINGA Dawen
 
 Master's AI and Data science
 
