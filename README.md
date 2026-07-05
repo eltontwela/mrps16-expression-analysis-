@@ -143,8 +143,13 @@ If you use this repository, please cite:
 ---
 
 ## Authors
+TWELA MWAY Elton
+KASONGO NJIMINY Landers
+NGOLO MALONDA Kethia
+MUELA BANANGA Miradel
+OYEMA MBOLADINGA Dawen
 
-Master's Program in Bioinformatics
+Master's AI and Data science
 
 Faculty of Sciences
 
@@ -153,7 +158,3 @@ University of Kinshasa (UNIKIN)
 Academic Year: 2025–2026
 
 ---
-
-## License
-
-This project is distributed under the MIT License.
