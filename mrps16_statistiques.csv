@@ -1,0 +1,3 @@
+cancer,n_tumeur,n_sain,median_tumeur,median_sain,log2FC,p_value,significatif
+GBM,171,1141,10.83,10.44,0.39,4.863912304344364e-43,oui
+LIHC,421,110,11.79,11.1,0.69,1.786313495740823e-37,oui
